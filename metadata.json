@@ -1,0 +1,6 @@
+{
+  "name": "Bluetooth Scan Commander",
+  "description": "An automated classic Bluetooth sequence controller that triggers custom step commands, listens for device feedback, and increments counts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
